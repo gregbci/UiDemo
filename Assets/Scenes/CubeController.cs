@@ -5,7 +5,6 @@ using UnityEngine;
 
 public class GameController : MonoBehaviour
 {
-    public GameObject cube;
     public Vector3 rotateAmount;
 
     void Update()
